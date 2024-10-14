@@ -1,4 +1,6 @@
-Welcome to the Build‐it‐yourself CMD FD‐Series support github site
+**Welcome to the Build‐it‐yourself CMD FD‐Series support github site**
+
+![SRS_IMG_3853 IMG_3853](https://github.com/user-attachments/assets/1b87f17a-c5c2-464e-8ae8-b18507d4e0b7)
 
 It is here where you're going to find the information you need to complete the build of your reproduction CMD FD-Series Drive.
 
@@ -8,4 +10,3 @@ With respect to the case, there are two designs available. The first is a 3D pri
 
 This github will evolve as more information becomes available or is requested.
 
-![SRS_IMG_3853 IMG_3853](https://github.com/user-attachments/assets/1b87f17a-c5c2-464e-8ae8-b18507d4e0b7)
